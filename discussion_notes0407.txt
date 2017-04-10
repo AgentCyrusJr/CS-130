@@ -1,0 +1,11 @@
+software requirement specifications
+
+Wed and Thurs    1.30pm ~ 2.30pm
+TA email: Muhammad Gulzar <gulzar@cs.ucla.edu>
+
+scope: high level application of this software
+diagram, module
+5-10 pages
+assumptions and dependencies
+user interfaces layout, images on the applications 
+
